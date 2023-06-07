@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random - actividad c", "ran
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime - actividad a", "DateTime\DateTime - actividad a.csproj", "{C2E95055-59FF-4985-98EB-B503DCBEE9B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime - actividad b", "DateTime - actividad b\DateTime - actividad b.csproj", "{C94A7D0A-0719-4819-B0B5-DFEBEA8C57E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C2E95055-59FF-4985-98EB-B503DCBEE9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2E95055-59FF-4985-98EB-B503DCBEE9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2E95055-59FF-4985-98EB-B503DCBEE9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94A7D0A-0719-4819-B0B5-DFEBEA8C57E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94A7D0A-0719-4819-B0B5-DFEBEA8C57E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94A7D0A-0719-4819-B0B5-DFEBEA8C57E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94A7D0A-0719-4819-B0B5-DFEBEA8C57E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
